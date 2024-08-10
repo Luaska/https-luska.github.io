@@ -1,2 +1,2 @@
-# https-luska.github.io
+# luska.github.io
 Personal Website of myself
